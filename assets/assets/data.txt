@@ -1,0 +1,91 @@
+Data For LEOS
+PRODUCTS
+SURVEILLANCE PRODUCTS
+[
+	We have many products under suveillance category
+	The Products include AIRBORNE TI IMAGING FOR SMALL UAV (ABTIQ-256), THERMAL IMAGER SURVEILLANCE CAMERA (ALHARIS-75), FAOD, Helmet Mount Display (HMD-1), TIB-786-1, TIB786-3.
+	Our each product is upto the mark.
+	Which product do you want to know about more?
+]
+
+	ABTIQ-256
+[
+	 'AIRBORNE TI IMAGING FOR SMALL UAV (ABTIQ-256)',ABTIQ-256 is a short-range Thermal Sight for UAVs and Quadcopters to facilitate night surveillance operations. 
+	  It uses uncooled thermal imaging technology. It is a light weight TI solution ideal for UAV applications. It enables the UAVs to detect and engage the targets. 
+	  It complies with US MIL-STD-810G.
+
+	  APPLICABILITY: • A Compact TI sight for small UAVs 
+	       		 • Quadcopter
+			
+		
+		Technical Specifications: 
+                       (Sensor Type: 'Un-cooled'),
+                       (Sensor Size: '640×480, 17um(or better)'),
+                       (Spectral Response: '8 - 14 µm'),
+                       (Objective Lens: '25 mm, Fixed Focus'),
+                       (Focus Range: '5m – Infinity'),
+                       (Field of View: '23° x 18°'),
+                       (NETD: ' ≤70 mK'),
+                       (Electronic Zoom: '1X, 2X, 3X, 4X'),
+                       (Polarity: 'WH/BH/Sepia/Fire/Iron/Rainbow'),
+                       (Video Out: 'PAL, Ethernet'),
+                       (Connectivity: 'ONVIF , RTSP, PELCO-D'),
+                       (Operating Voltage: '12V DC'),
+                       (Operating Temperature: '-5°C to +55°C'),
+                       (Encapsulation: 'IP67'),
+                       (Qualification: 'MIL-STD-810G'),
+                       (Weight: '< 250 g')
+	}
+]
+
+	ALHARIS-75
+[
+	{
+	 'THERMAL IMAGER SURVEILLANCE CAMERA (ALHARIS-75)', Long-range Thermal Imager based night vision surveillance sight.
+	  It can be integrated with any type of high-resolution   pan-tilt with video over Ethernet. 
+	  It can be equally used in the day & night �me for Area Surveillance and Perimeter Security.
+	  It complies with US MIL-STD-810G.
+
+	  APPLICABILITY: • Area Surveillance
+	 	         • Perimeter Security
+
+	
+		Technical Specifications:
+			(Sensor Type: 'Un-cooled'),
+                        (Sensor Size: '640×480, 17µm (or better)'),
+                        (Spectral Response: '8-14µm'),
+                        (Objective Lens: '75mm, Fixed Focus'),
+                        (Focus Range: '5m – Infinity'),
+                        (Field of View: '8° x 6°'),
+                        (NETD: '<70 mK'),
+                        (Electronic Zoom: '1X, 2X, 3X, 4X'),
+                        (Video Output: 'PAL, Ethernet'),
+                        (Connectivity: 'ONVIF, PELCO-D'),
+                        (PTZ: 'Yes (Optional)'),
+                        (Operating Voltage: '12 V DC'),
+                        (Operating Temperature: '-5°C to 55°C'),
+                        (Encapsulation: 'IP67'),
+                        (Qualification: 'MIL-STD-810G'),
+                        (Weight: '< 1.6kg')
+		
+	}
+]
+	FAOD
+	HMD-1 ('Helmet Mount Display (HMD-1)')
+	[
+		{
+		Technical Specifications: 
+			('Display': 'Color AMOLED Display (800×600)'),
+       			('Eye Relief': '20mm'),
+        		('Diopter', '+2D to -2D'),
+        		('Cable Length', '1m (flexible)'),
+        		('Mechanical Interface', 'Engage with mounting screw of helmet'),
+      			('Operating Temperature', '-35°C to +55°C'),
+        		('Storage Temperature', '-40°C to +70°C'),
+        		('Encapsulation', 'IP67'),
+        		('Vibration & Shock', 'MIL-STD-810G'),
+		}
+    ]
+	v.  TIB-786-1
+	vi. TIB786-3
+]
